@@ -1,0 +1,29 @@
+{
+  "name": "codesandbox-vuetifi-nuxt",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Nuxt.js Team",
+  "private": true,
+  "scripts": {
+    "dev": "MINIMAL=1 CSB=1 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@mdi/js": "5.6.55",
+    "@nuxt/http": "^0.5.0",
+    "@nuxtjs/manifest": "3.0.0-beta.16",
+    "@nuxtjs/pwa": "3.2.2",
+    "@nuxtjs/pwa-utils": "3.0.0-beta.16",
+    "@nuxtjs/vuetify": "2.0.0-beta.2",
+    "axios": "0.21.1",
+    "nuxt": "2.14.7",
+    "reqlim": "^0.0.0",
+    "sharp": "0.26.1",
+    "vue-i18n": "9.0.0-beta.4",
+    "vue-typer": "1.2.0"
+  },
+  "keywords": []
+}

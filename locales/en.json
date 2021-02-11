@@ -1,0 +1,9 @@
+{
+  "hello": "Hello i18n in SFC!",
+  "welcome": "Welcome!",
+  "yes-button": "Yes",
+  "no-button": "No!",
+  "text": "flower | flowers",
+  "wolves": "no wolf | one wolf | a pack of {n} wolves",
+  "hello": "Hallo {name}!"
+}
